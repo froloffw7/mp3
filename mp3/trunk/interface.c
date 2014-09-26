@@ -1,3 +1,4 @@
+#define WRAP_LIBC_MALLOC
 #include "asterisk.h"
 #include "asterisk/logger.h"
 
